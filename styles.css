@@ -80,7 +80,7 @@ h1 {
   visibility: visible;
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 400px) {
   .container {
     width: 300px;
     margin: 10px;
